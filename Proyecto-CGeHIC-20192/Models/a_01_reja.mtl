@@ -1,0 +1,146 @@
+# Blender MTL File: 'a_01_reja.blend'
+# Material Count: 12
+
+newmtl Gate_Light:phongE5SG
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd C:\Users\Pamela\Documents\carusel\barda_reja\textura\p_12_cafe.tga
+map_Bump C:\\1
+
+newmtl Gate_Light:phongE5SG_lightlower_diffuse.jpg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd C:\Users\Pamela\Documents\carusel\02_entrada\textures\lightlower_diffuse.jpg
+map_Bump C:\\1
+
+newmtl Gate_Light:phongE6SG
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd C:\Users\Pamela\Documents\carusel\barda_reja\textura\p_12_cafe.tga
+map_Bump C:\\1
+
+newmtl Pillar_Final:lambert4SG
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.120000 0.120000 0.120000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd C:\p_01_caballo\carrusel\Textures\p_11_morado.tga
+map_Bump C:\\1
+
+newmtl Pillar_Final:lambert4SG_blanco.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.120000 0.120000 0.120000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd textura\blanco.tga
+map_Bump C:\\1
+
+newmtl Pillar_Final:lambert4SG_p_01_rosa.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.120000 0.120000 0.120000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd C:\p_01_caballo\carrusel\Textures\p_01_rosa.tga
+map_Bump C:\\1
+
+newmtl Pillar_Final:lambert4SG_p_01_rosa_s.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.120000 0.120000 0.120000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd C:\p_01_caballo\carrusel\Textures\p_01_rosa_s.tga
+map_Bump C:\\1
+
+newmtl Pillar_Final:lambert4SG_p_03_amarillo.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.120000 0.120000 0.120000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd C:\p_01_caballo\carrusel\Textures\p_03_amarillo.tga
+map_Bump C:\\1
+
+newmtl Pillar_Final:lambert4SG_p_04_azul.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.120000 0.120000 0.120000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd C:\p_01_caballo\carrusel\Textures\p_04_azul.tga
+map_Bump C:\\1
+
+newmtl phongE1SG
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.080000 0.080000 0.080000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Pamela\Documents\carusel\imagenes\techo\p_05_colores.tga
+map_Bump C:\\1
+
+newmtl phongE1SG.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.080000 0.080000 0.080000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Pamela\Documents\carusel\imagenes\techo\p_05_colores.tga
+map_Bump C:\\1
+
+newmtl phongE1SG.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.080000 0.080000 0.080000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Pamela\Documents\carusel\imagenes\techo\p_05_colores.tga
+map_Bump C:\\1

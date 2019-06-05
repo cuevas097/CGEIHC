@@ -1,0 +1,13 @@
+# Blender MTL File: 'Mar.obj'
+# Material Count: 1
+
+newmtl Mar
+Ns 92.156863
+Ka 0.431664 0.431664 0.431664
+Kd 0.102513 0.596126 0.603109
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.503614
+illum 1
+map_Kd D:\Cuevas\Documents\Fotos\water.jpg

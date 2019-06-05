@@ -1,0 +1,24 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl mat1.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.060000 0.060000 0.060000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\Documents\8vo_semestre\lab_grafica\proyecto\Squirtle\ZenigameDh.tga
+
+newmtl mat2.001
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.060000 0.060000 0.060000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\lizze\Documents\8vo_semestre\lab_grafica\proyecto\Squirtle\ZenigameEyeDh.tga
