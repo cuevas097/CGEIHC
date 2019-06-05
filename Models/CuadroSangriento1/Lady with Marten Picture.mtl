@@ -1,0 +1,8 @@
+newmtl picture07_2
+Ka 0.7843137 0.7843137 0.7843137
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka picture07_2.png
+map_Kd picture07_2.png
+map_d picture07_2.png

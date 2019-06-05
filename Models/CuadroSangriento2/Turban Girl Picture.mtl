@@ -1,0 +1,8 @@
+newmtl phong5
+Ka 0.7843137 0.7843137 0.7843137
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka phong5.png
+map_Kd phong5.png
+map_d phong5.png
